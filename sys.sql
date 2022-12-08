@@ -42,5 +42,6 @@ INSERT INTO product (product_id, product_name, product_type, product_price, prod
 INSERT INTO product (product_id, product_name, product_type, product_price, product_brand, product_color, product_OS, product_CPU_speed, product_RAM, product_Battery_capacity) VALUES (13, 'Galaxy S', 'Smart Phone', 700, 'Samsung', 'Black', 'Android', 1.6, 8, 4500);
 INSERT INTO product (product_id, product_name, product_type, product_price, product_brand, product_color, product_OS, product_CPU_speed, product_RAM, product_Battery_capacity) VALUES (14, 'Lumia', 'Smart Phone', 600, 'Microsoft', 'Black', 'Windows', 2.4, 8, 5000);
 
+
 SELECT * FROM employee;
 SELECT * FROM product;
